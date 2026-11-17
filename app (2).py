@@ -7,10 +7,13 @@ Run locally:   streamlit run app.py
 
 import io
 from pathlib import Path
+
 import matplotlib
+import matplotlib.pyplot as plt
+
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
+
 import streamlit as st
 
 # ------------------------------------------------------------------
