@@ -839,7 +839,7 @@
    "metadata": {
     "collapsed": True,
     "jupyter": {
-     "outputs_hidden": true
+     "outputs_hidden": True
     }
    },
    "source": [
