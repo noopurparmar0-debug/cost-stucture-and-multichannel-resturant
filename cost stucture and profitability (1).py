@@ -837,7 +837,7 @@
    "cell_type": "markdown",
    "id": "d6819619-4d26-4f5e-87a8-967a1c359005",
    "metadata": {
-    "collapsed": true,
+    "collapsed": True,
     "jupyter": {
      "outputs_hidden": true
     }
